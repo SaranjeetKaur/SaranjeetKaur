@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on the R Developer Guide and my MPhil thesis
 - 📫 How to reach me: kaur.saranjeet3@gmail.com
 - 😄 Pronouns: She/ Her
-- 🌱 Programming languages that I work with: Julia (also did the Google Summer of Code with the Julia Language Organization), Python, and R
+- 🌱 Programming languages that I work with: Julia (also did the Google Summer of Code 2020 with the Turing team of the Julia Language Organization), Python, and R
 
 
