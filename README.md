@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 - 🌱 Programming languages that I work with: Julia (also did the Google Summer of Code 2020 with the Turing team of the Julia Language Organization), Python, and R (created the R Development Guide)
 - ⚡ Open Life Science Program Cohort-4 (OLS-4) mentee
 - ✨ Participant in the Digital Infrastructure Incubator at Code for Science and Society
+- 💬 [More about me](https://saranjeetkaur.github.io/About-Me/)
 
