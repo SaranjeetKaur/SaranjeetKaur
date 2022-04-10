@@ -18,5 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Mentee & graduate, Open Life Science Programme Cohort-4 (OLS-4) 
 - 🌟 Mentee, Pilot Mentoring Programme, Society of Research Software Engineering
 - ✨ Participant in the Digital Infrastructure Incubator at Code for Science and Society
+- 🌻 Co-Founder, RSE Asia Association
 - 💬 [Personal website](https://saranjeetkaur.github.io/About-Me/)
 
