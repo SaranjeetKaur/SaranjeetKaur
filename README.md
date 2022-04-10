@@ -11,11 +11,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on my MPhil thesis
+- 🔭 M.Phil. Statistics
 - 📫 How to reach me: kaur.saranjeet3@gmail.com
 - 😄 Pronouns: She/ Her
 - 🌱 Programming languages that I work with: Julia (also did the Google Summer of Code 2020 with the Turing team of the Julia Language Organization), Python, and R (created the R Development Guide)
-- ⚡ Open Life Science Program Cohort-4 (OLS-4) mentee
+- ⚡ Mentee & graduate, Open Life Science Programme Cohort-4 (OLS-4) 
+- 🌟 Mentee, Pilot Mentoring Programme, Society of Research Software Engineering
 - ✨ Participant in the Digital Infrastructure Incubator at Code for Science and Society
 - 💬 [Personal website](https://saranjeetkaur.github.io/About-Me/)
 
