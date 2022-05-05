@@ -19,5 +19,7 @@ Here are some ideas to get you started:
 - 🌟 Mentee, Pilot Mentoring Programme, Society of Research Software Engineering
 - ✨ Participant in the Digital Infrastructure Incubator at Code for Science and Society
 - 🌻 Co-Founder, RSE Asia Association
+- 💮 Technical Writer, Google Season of Docs 2022 (with The R Foundation)
+- 🍁 Founding Committee Member, NumFOCUS Project Incubator
 - 💬 [Personal website](https://saranjeetkaur.github.io/About-Me/)
 
