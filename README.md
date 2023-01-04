@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 - 🔭 M.Phil. Statistics
 - 📫 How to reach me: kaur.saranjeet3@gmail.com
 - 😄 Pronouns: She/ Her
+- 🦋 International Fellow 2023 of the [Software Sustainibility Institute](https://www.software.ac.uk/blog/2022-12-15-announcing-2023-software-sustainability-institute-fellows).
 - ✨ RSE Impact Awardee 2022 by the [Society of Research Software Engineering](https://society-rse.org/)
 - 🌱 Programming languages that I work with: Julia (also did the Google Summer of Code 2020 with the Turing team of the Julia Language Organization), Python, and R (created the [R Development Guide](https://contributor.r-project.org/rdevguide/))
 - ⚡ Mentee & graduate, [Open Life Science Programme Cohort-4 (OLS-4)](https://openlifesci.org/ols-4/projects-participants/) for a project on "Building the Research Software Engineering (RSE) Association in Asia region"
