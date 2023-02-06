@@ -14,18 +14,29 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 M.Phil. Statistics
-- 📫 How to reach me: kaur.saranjeet3@gmail.com
-- 😄 Pronouns: She/ Her
+## Work
+
+- 🔭 Community Manager (Asia) for the [Research Software Alliance](https://www.researchsoft.org).
 - 🦋 International Fellow 2023 of the [Software Sustainibility Institute](https://www.software.ac.uk/blog/2022-12-15-announcing-2023-software-sustainability-institute-fellows).
-- ✨ RSE Impact Awardee 2022 by the [Society of Research Software Engineering](https://society-rse.org/)
+- 🌻 Lead & Co-Founder, [RSE Asia Association](https://github.com/rse-asia).
+
+## Projects (Open Source and Open Science)
+
+- ✨ Participant in the [Digital Infrastructure Incubator at Code for Science and Society](https://incubator.codeforscience.org/)
+- 💮 Technical Writer, Google Season of Docs 2022 (with The R Foundation) on a project to "[Expand and reorganize the R Development Guide](https://github.com/rstats-gsod/gsod2022/wiki/GSOD-2022-Proposal)"
 - 🌱 Programming languages that I work with: Julia (also did the Google Summer of Code 2020 with the Turing team of the Julia Language Organization), Python, and R (created the [R Development Guide](https://contributor.r-project.org/rdevguide/))
+- ⚡ Mentee & graduate, [Open Life Science Programme Cohort-6 (OLS-6)](https://openlifesci.org/ols-6/projects-participants/)
 - ⚡ Mentee & graduate, [Open Life Science Programme Cohort-4 (OLS-4)](https://openlifesci.org/ols-4/projects-participants/) for a project on "Building the Research Software Engineering (RSE) Association in Asia region"
 - 🌟 Mentee, [Pilot Mentoring Programme, Society of Research Software Engineering](https://society-rse.org/events/pilot-mentoring-programme/)
-- ✨ Participant in the [Digital Infrastructure Incubator at Code for Science and Society](https://incubator.codeforscience.org/)
-- 🌻 Co-Founder, [RSE Asia Association](https://github.com/rse-asia)
-- 💮 Technical Writer, Google Season of Docs 2022 (with The R Foundation) on a project to "[Expand and reorganize the R Development Guide](https://github.com/rstats-gsod/gsod2022/wiki/GSOD-2022-Proposal)"
 - 🍁 Founding Committee Member, NumFOCUS Project Incubator
-- ⚡ Mentee, [Open Life Science Programme Cohort-6 (OLS-6)](https://openlifesci.org/ols-6/projects-participants/)
-- 💬 [Personal website](https://saranjeetkaur.github.io/About-Me/)
 
+
+## Recognition
+
+- ✨ RSE Impact Awardee 2022 by the [Society of Research Software Engineering](https://society-rse.org/
+
+## More info
+
+- 💬 [Personal website](https://saranjeetkaur.github.io/About-Me/)
+- 📫 How to reach me: kaur.saranjeet3@gmail.com
+- 😄 Pronouns: she/her
