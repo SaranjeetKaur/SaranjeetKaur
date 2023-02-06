@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ## Recognition
 
-- ✨ RSE Impact Awardee 2022 by the [Society of Research Software Engineering](https://society-rse.org/
+- ✨ RSE Impact Awardee 2022 by the [Society of Research Software Engineering](https://society-rse.org/).
 
 ## More info
 
