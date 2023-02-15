@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - ✨ Participant in the [Digital Infrastructure Incubator at Code for Science and Society](https://incubator.codeforscience.org/)
 - 💮 Technical Writer, Google Season of Docs 2022 (with The R Foundation) on a project to "[Expand and reorganize the R Development Guide](https://github.com/rstats-gsod/gsod2022/wiki/GSOD-2022-Proposal)"
 - 🌱 Programming languages that I work with: Julia (also did the Google Summer of Code 2020 with the Turing team of the Julia Language Organization), Python, and R (created the [R Development Guide](https://contributor.r-project.org/rdevguide/))
-- ⚡ Mentee & graduate, [Open Life Science Programme Cohort-6 (OLS-6)](https://openlifesci.org/ols-6/projects-participants/)
+- ⚡ Mentee & graduate, [Open Life Science Programme Cohort-6 (OLS-6)](https://openlifesci.org/ols-6/projects-participants/) for a project to create the [OLS Community Map](https://github.com/open-life-science/ols_community_map)
 - ⚡ Mentee & graduate, [Open Life Science Programme Cohort-4 (OLS-4)](https://openlifesci.org/ols-4/projects-participants/) for a project on "Building the Research Software Engineering (RSE) Association in Asia region"
 - 🌟 Mentee, [Pilot Mentoring Programme, Society of Research Software Engineering](https://society-rse.org/events/pilot-mentoring-programme/)
 - 🍁 Founding Committee Member, NumFOCUS Project Incubator
