@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 - 🔭 Community Manager (Asia) for the [Research Software Alliance](https://www.researchsoft.org).
 - 🦋 International Fellow 2023 of the [Software Sustainibility Institute](https://www.software.ac.uk/blog/2022-12-15-announcing-2023-software-sustainability-institute-fellows).
 - 🌻 Lead & Co-Founder, [RSE Asia Association](https://github.com/rse-asia).
+- 🍁 Mentor, [Research Software Camp](https://www.software.ac.uk/research-software-camps) April-June 2023.
+- 🍁 Mentor, Open Seeds by [Open Life Science](https://openlifesci.org) (Cohort-7)
 
 ## Projects (Open Source and Open Science)
 
